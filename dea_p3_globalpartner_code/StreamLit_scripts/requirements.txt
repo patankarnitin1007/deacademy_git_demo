@@ -1,0 +1,5 @@
+streamlit>=1.36
+awswrangler>=3.9
+plotly>=5.22
+pandas>=2.2
+boto3>=1.34
